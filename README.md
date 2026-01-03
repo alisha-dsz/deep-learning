@@ -1,5 +1,4 @@
-
-Deep Learning Project
+#Deep Learning Project
 
 ## Project Overview
 This project implements a **deep learning model** for **image classification** using the **MNIST dataset**.  
@@ -25,4 +24,5 @@ Install requirements using:
 
 ```bash
 pip install tensorflow matplotlib
+
 
